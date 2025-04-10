@@ -1,0 +1,8 @@
+### make a character aka player
+### he should have his x and y coordinate, size and assets
+### he should be able to move left and right using wasd
+### if he is standing still, his animation should be idle
+### if he is running his animation should be run
+### if he is running left, animation should be flipped
+add attack key on for example, shift
+attack just plays attack animation
