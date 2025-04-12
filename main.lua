@@ -3,7 +3,7 @@ function love.load()
   require "entity"
   require "player"
 
-  player = Player(10, 10)
+  player = Player(1, 100)
 end
 
 function love.update(dt)
@@ -12,5 +12,4 @@ end
 
 function love.draw()
   player:draw()
-  love.graphics.circle("fill", 1, 1, 10)
 end
