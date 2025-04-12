@@ -6,3 +6,10 @@
 ### if he is running left, animation should be flipped
 add attack key on for example, shift
 attack just plays attack animation
+
+add some floor
+add gravity that pulls the player to the floor
+make player be able to jump, and get pulled down by gravity
+make a random enemy or shooting object
+make him be able to damage our player
+make our player be able to attack and damage the enemy/object
