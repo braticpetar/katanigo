@@ -1,5 +1,5 @@
 Player = Entity:extend()
-require "animation"
+require "classes/animation"
 
 local idle_image = love.graphics.newImage("assets/IDLE.png")
 local running_image = love.graphics.newImage("assets/RUN.png")

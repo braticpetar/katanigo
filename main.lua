@@ -1,7 +1,7 @@
 function love.load()
-  Object = require "classic"
-  require "entity"
-  require "player"
+  Object = require "classes/classic"
+  require "classes/entity"
+  require "classes/player"
 
   player = Player(1, 100)
 end
